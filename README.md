@@ -1,37 +1,24 @@
 ## Welcome to Project Outreach
 
-You can use the [editor on GitHub](https://github.com/gaganthind50/Team-Outreach/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Outreach is a platform that strengthens the bond between immigrant parents and teachers to help students succeed. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is it about?
 
-### Markdown
+Problem Space: Immigrant Populations and Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Problem Statement: How do we connect low income immigrant parents and academic institutions in the greater Seattle area, so that it raises parents’ awareness on their children’s (7-8th grade) school life, which would help their children advance academically?
 
-```markdown
-Syntax highlighted code block
+Our focus as a collective is to help defy the barriers immigrant populations face in front of mobility. Life for the children of immigrant households is extremely hard given that they face language, financial, and cultural barriers. In order to alleviate this tension created between the poor communicaiton between institutions and immigrant populations, we hope to create a solution which breaks these barriers and creates a thriving environment for immigrant students. 
 
-# Header 1
-## Header 2
-### Header 3
+### Solution Approach
 
-- Bulleted
-- List
+** TO BE UPDATED**
 
-1. Numbered
-2. List
+### Team Members
 
-**Bold** and _Italic_ and `Code` text
+Gagan Thind: gagant@uw.edu
+Ibrar Aslam: ibrar24@uw.edu
+Jose Santos: alarjos@uw.edu
 
-[Link](url) and ![Image](src)
-```
+This project is a part of the Capstone Project course at the University of Washington Information School 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gaganthind50/Team-Outreach/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
